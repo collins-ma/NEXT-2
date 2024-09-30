@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Learn Next.js",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "title": "Explore ISR",
+      "completed": false
+    },
+    {
+      "id": "3fbf",
+      "title": "ghg",
+      "completed": false
+    },
+    {
+      "id": "20ad",
+      "title": "ggg",
+      "completed": false
+    }
+  ]
+}
